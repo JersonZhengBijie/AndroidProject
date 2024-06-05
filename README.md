@@ -10,9 +10,7 @@
 
 * AndroidProject 已维护三年多的时间，几乎耗尽我所有的业余时间，里面的代码改了再改，改了又改，不断 Review、不断创新、不断改进、不断测试、不断优化，每天都在重复这些枯燥的步骤，但是只有这样才能把这件事做好，因为我相信把同样一件事重复做，迟早有一天可以做好。
 
-* 已经正式投入到多个公司项目实践中，暂时没有发现任何问题或者 Bug，[点击下载 Apk 体验](https://github.com/getActivity/AndroidProject/releases/download/13.1/AndroidProject.apk)，又或者扫码下载
-
-![](picture/demo_code.png)
+* 已经正式投入到多个公司项目实践中，暂时没有发现任何问题或者 Bug，[点击下载 Apk 体验](https://github.com/getActivity/AndroidProject/releases/download/13.1/AndroidProject.apk)
 
 #### 常用界面
 
@@ -130,17 +128,6 @@
 
 * 省市区 Json 数据：[ProvinceJson](https://github.com/getActivity/ProvinceJson) ![](https://img.shields.io/github/stars/getActivity/ProvinceJson.svg) ![](https://img.shields.io/github/forks/getActivity/ProvinceJson.svg)
 
-#### 微信公众号：Android轮子哥
-
-![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/official_ccount.png)
-
-#### Android 技术分享 QQ 群：78797078
-
-#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
-
-![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
-
-#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
 
 ## License
 
